@@ -10,6 +10,7 @@ namespace MyConsoleApp
     {
         static void Main(string[] args)
         {
+            // changed in github
         }
     }
 }
