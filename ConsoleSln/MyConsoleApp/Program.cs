@@ -13,6 +13,8 @@ namespace MyConsoleApp
         {
             // changed in github
             // changed again in github
+
+            // a change in vs
         }
     }
 }
