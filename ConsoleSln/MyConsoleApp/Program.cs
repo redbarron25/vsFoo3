@@ -1,4 +1,5 @@
-﻿using System;
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,6 +12,7 @@ namespace MyConsoleApp
         static void Main(string[] args)
         {
             // changed in github
+            // changed again in github
         }
     }
 }
