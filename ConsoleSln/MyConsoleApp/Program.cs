@@ -17,7 +17,7 @@ namespace MyConsoleApp
             // a change in vs
 
 
-            // change made on feature1 branch
+            // call feature one
         }
     }
 }
