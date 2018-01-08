@@ -15,6 +15,9 @@ namespace MyConsoleApp
             // changed again in github
 
             // a change in vs
+
+
+            // change made on feature1 branch
         }
     }
 }
